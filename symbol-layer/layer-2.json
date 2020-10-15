@@ -42,6 +42,18 @@
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 69, "label": "F12"},
+    {
+      "keyCode": 23664,
+      "label": "Brt-",
+      "extraLabel": "Media",
+      "verbose": "Brightness down"
+    },
+    {
+      "keyCode": 23663,
+      "label": "Brt+",
+      "extraLabel": "Media",
+      "verbose": "Brightness up"
+    },
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
     {"keyCode": 19682, "label": "Mute", "extraLabel": "Media"},
     {
@@ -55,18 +67,6 @@
       "label": "Vol+",
       "extraLabel": "Media",
       "verbose": "Volume up"
-    },
-    {
-      "keyCode": 23664,
-      "label": "Brt-",
-      "extraLabel": "Media",
-      "verbose": "Brightness down"
-    },
-    {
-      "keyCode": 23663,
-      "label": "Brt+",
-      "extraLabel": "Media",
-      "verbose": "Brightness up"
     }
   ],
   "palette": []
