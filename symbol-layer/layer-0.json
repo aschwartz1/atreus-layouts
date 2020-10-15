@@ -42,7 +42,7 @@
     {"keyCode": 17453, "label": "3", "extraLabel": "ShiftTo"},
     {"keyCode": 40, "label": "Enter"},
     {"keyCode": 17451, "label": "1", "extraLabel": "ShiftTo"},
-    {"keyCode": 229, "label": "RShift", "verbose": "Right Shift"},
+    {"keyCode": 43, "label": "Tab"},
     {"keyCode": 44, "label": "Space"},
     {"keyCode": 17452, "label": "2", "extraLabel": "ShiftTo"},
     {"keyCode": 231, "label": "RCmd", "verbose": "Right Cmd"},
